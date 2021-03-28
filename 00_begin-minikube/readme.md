@@ -23,7 +23,7 @@
 ## windows 10 - minikube, kubectl 설치
 - **virtual box**를 사용하는 방법을 볼거임 (내 기기가 전부 window10 home이라...)
 1. **virtual box** 설치 
-    - [virtual.org](virtual.org)에 접속해서 window host 다운로드
+    - [virtual.org](https://www.virtualbox.org/)에 접속해서 window host 다운로드
     - 자동으로 path등록 됨
 2. **minikube** 설치
     - [파일 링크](https://github.com/kubernetes/minikube/releases/latest/download/minikube-installer.exe)를 클릭하면 `minikube-installer.exe`파일이 설치됨
